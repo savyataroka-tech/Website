@@ -1,0 +1,6 @@
+{
+  "name": "Savyata Cosmetics",
+  "description": "Contemporary Himalayan Elegance. Functional e-commerce experience for Savyata Cosmetics with product browsing, shades, cart, and checkout in NPR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
